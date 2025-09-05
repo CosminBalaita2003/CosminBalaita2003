@@ -1,9 +1,10 @@
 # 👋 Hi there, I'm Cosmin 
 
-🎓 I'm a final year Computer Science student at the Faculty of Mathematics and Computer Science, University of Bucharest.
+🎓 I am currently pursuing a Master’s degree in Artificial Intelligence at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
-💻 Passionate about building meaningful software products that combine clean code, great UX, and a sprinkle of creativity.  
-I enjoy both backend and frontend development, and I'm currently exploring full-stack projects using .NET and React Native.
+🎓 I hold a Bachelor’s degree in Computer Science from the Faculty of Mathematics and Computer Science, University of Bucharest.
+
+💻 I am passionate about building meaningful software products that combine clean code, great UX, and a sprinkle of creativity.
 
 📬 Let's connect!
 -  [LinkedIn Profile](https://www.linkedin.com/in/cosmin-balaita-155298254/)
